@@ -16,7 +16,7 @@ Here are some examples of the patterns you might find in the project:
 
 1. Diamond Pattern
 2. Butterfully Patter
-3.  Pascal’s Triangle Pattern
+3. Pascal’s Triangle Pattern
 4. Numeric  Diamond Pattern
 5. M Pattern
 6. H Pattern

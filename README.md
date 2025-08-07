@@ -14,16 +14,16 @@ This is a **Java-based console project** created as part of my BCA 2nd Year - Se
 
 Here are some examples of the patterns you might find in the project:
 
-1. Right-angled Triangle
-2. Inverted Triangle
-3. Pyramid Pattern
-4. Diamond Pattern
-5. Number Pattern
-6. Alphabet Pattern
-7. Pascal’s Triangle
-8. Hollow Square
-9. Floyd’s Triangle
-10. Butterfly Pattern
+1. Diamond Pattern
+2. Butterfully Pattern
+3  Pascal’s Triangle Pattern
+4. Numeric  Diamond Pattern
+5. M Pattern
+6. H Pattern
+7. N Pattern
+8. Hollow Diamond Pattern
+9. Hollow Pattern
+10. Floyd's Triangle Pattern
 
 
 ## 🛠 Technologies Used
